@@ -22,6 +22,9 @@
 
 
 ## &#x1f4c8; GitHub Stats
+- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunkumarreddy5b7&show_icons=true&locale=en&layout=compact" alt="tharunkumarreddy5b7" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharunkumarreddy5b7&show_icons=true&locale=en" alt="tharunkumarreddy5b7" /></p>
 
 <a href="https://github.com/MartinHeinz/SangamChoudhary">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunkumarreddy5b7&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
