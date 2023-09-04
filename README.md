@@ -5,5 +5,9 @@
 
 - 📫 You can reach me at **ktr.tharunkumarreddy@gmail.com**
 
+- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunkumarreddy5b7&show_icons=true&locale=en&layout=compact" alt="tharunkumarreddy5b7" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharunkumarreddy5b7&show_icons=true&locale=en" alt="tharunkumarreddy5b7" /></p>
+
 
 
