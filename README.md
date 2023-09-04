@@ -5,9 +5,33 @@
 
 - 📫 You can reach me at **ktr.tharunkumarreddy@gmail.com**
 
+- ## Technology Stack
+
+![Python](https://img.shields.io/badge/C%2B%2B-Primary%20Programming%20Language-red)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
+![C#](https://img.shields.io/badge/Data%20Structures%20and%20Algorithm-Progamming-orange)
+
+![HTML](https://img.shields.io/badge/Html-Frontend-blue) ![CSS](https://img.shields.io/badge/CSS-Frontend-pink) ![Vue.js](https://img.shields.io/badge/React.js-Frontend-blue) 
+![BootStrap](https://img.shields.io/badge/React.js-Frontend-green)
+
+
+[![MySQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
+
+[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
+
+
+## &#x1f4c8; GitHub Stats
+
 - <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunkumarreddy5b7&show_icons=true&locale=en&layout=compact" alt="tharunkumarreddy5b7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharunkumarreddy5b7&show_icons=true&locale=en" alt="tharunkumarreddy5b7" /></p>
 
+<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
+<!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/) -->
+
+
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
