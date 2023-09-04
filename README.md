@@ -9,10 +9,11 @@
 
 ![Python](https://img.shields.io/badge/C%2B%2B-Primary%20Programming%20Language-red)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
-![C#](https://img.shields.io/badge/Data%20Structures%20and%20Algorithm-Progamming-orange)
+![C#](https://img.shields.io/badge/C%23)
 
-![HTML](https://img.shields.io/badge/Html-Frontend-blue) ![CSS](https://img.shields.io/badge/CSS-Frontend-pink) ![Vue.js](https://img.shields.io/badge/React.js-Frontend-blue) 
-![BootStrap](https://img.shields.io/badge/React.js-Frontend-green)
+
+![HTML](https://img.shields.io/badge/Html-Frontend-blue) ![CSS](https://img.shields.io/badge/CSS-Frontend-pink) ![Vue.js](https://img.shields.io/badge/Vue.js-Frontend-blue) 
+![BootStrap](https://img.shields.io/badge/Bootstrap.js-Frontend-green)
 
 
 [![MySQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
