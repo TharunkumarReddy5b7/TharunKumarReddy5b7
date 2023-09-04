@@ -15,6 +15,8 @@
 ![HTML](https://img.shields.io/badge/Html-Frontend-yellow) ![CSS](https://img.shields.io/badge/CSS-Frontend-pink) ![Vue.js](https://img.shields.io/badge/Vue.js-Frontend-blue) 
 ![BootStrap](https://img.shields.io/badge/Bootstrap.js-Frontend-red)
 
+![.NET](https://img.shields.io/badge/.Net-Backend-green) ![REST](https://img.shields.io/badge/REST-Backend-purple)
+
 ![SQLServer](https://img.shields.io/badge/SQLServer-DataBase-yellow)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 
