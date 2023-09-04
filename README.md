@@ -7,18 +7,16 @@
 
 - ## Technology Stack
 
-![Python](https://img.shields.io/badge/Python-Programming-green)
+![Python](https://img.shields.io/badge/Python-ProgrammingLanguage-red)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 ![C#](https://img.shields.io/badge/C%23-Programming-green)
 
 
-![HTML](https://img.shields.io/badge/Html-Frontend-blue) ![CSS](https://img.shields.io/badge/CSS-Frontend-pink) ![Vue.js](https://img.shields.io/badge/Vue.js-Frontend-blue) 
-![BootStrap](https://img.shields.io/badge/Bootstrap.js-Frontend-green)
+![HTML](https://img.shields.io/badge/Html-Frontend-yellow) ![CSS](https://img.shields.io/badge/CSS-Frontend-pink) ![Vue.js](https://img.shields.io/badge/Vue.js-Frontend-blue) 
+![BootStrap](https://img.shields.io/badge/Bootstrap.js-Frontend-red)
 
 
-[![MySQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
-
-[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
+[![SQLServer](https://img.shields.io/badge/-SQLServer-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/) ![![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 
 
 ## &#x1f4c8; GitHub Stats
