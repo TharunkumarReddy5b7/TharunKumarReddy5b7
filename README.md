@@ -7,7 +7,7 @@
 
 - ## Technology Stack
 
-![Python](https://img.shields.io/badge/C%2B%2B-Primary%20Programming%20Language-red)
+![Python](https://img.shields.io/badge/Python-Programming-green)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 ![C#](https://img.shields.io/badge/C%23-Programming-green)
 
