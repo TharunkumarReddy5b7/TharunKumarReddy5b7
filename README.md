@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharun</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 👨‍💻 You can find me on Linkedin (https://www.linkedin.com/in/tharun-kumar-reddy-k-376ab5222/) and Protfolio (https://tharunkumarreddy5b7.github.io/myprot/)
+- 👨‍💻 You can find me on <a href="https://www.linkedin.com/in/tharun-kumar-reddy-k-376ab5222">Linkedin</a> and <a href="https://tharunkumarreddy5b7.github.io/myprot/">Protfolio</a>
 
 - 📫 You can reach me at **ktr.tharunkumarreddy@gmail.com**
 
