@@ -17,7 +17,7 @@
 
 ![.NET](https://img.shields.io/badge/.Net-Backend-green) ![REST](https://img.shields.io/badge/REST-Backend-purple)
 
-![SQLServer](https://img.shields.io/badge/SQLServer-DataBase-yellow)
+![SQLServer](https://img.shields.io/badge/SQLServer-DataBase-blue)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 
 
