@@ -15,8 +15,8 @@
 ![HTML](https://img.shields.io/badge/Html-Frontend-yellow) ![CSS](https://img.shields.io/badge/CSS-Frontend-pink) ![Vue.js](https://img.shields.io/badge/Vue.js-Frontend-blue) 
 ![BootStrap](https://img.shields.io/badge/Bootstrap.js-Frontend-red)
 
-
-[![SQLServer](https://img.shields.io/badge/-SQLServer-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/) ![![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
+![SQLServer](https://img.shields.io/badge/SQLServer-DataBase-yellow)
+[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 
 
 ## &#x1f4c8; GitHub Stats
