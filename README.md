@@ -13,7 +13,7 @@
 
 
 ![HTML](https://img.shields.io/badge/Html-Frontend-yellow) ![CSS](https://img.shields.io/badge/CSS-Frontend-pink) ![Vue.js](https://img.shields.io/badge/Vue.js-Frontend-blue) 
-![BootStrap](https://img.shields.io/badge/Bootstrap.js-Frontend-red)
+![BootStrap](https://img.shields.io/badge/Bootstrap-Frontend-red)
 
 ![.NET](https://img.shields.io/badge/.Net-Backend-green) ![REST](https://img.shields.io/badge/REST-Backend-purple)
 
